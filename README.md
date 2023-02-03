@@ -1,6 +1,8 @@
 # M10-B-Macropad-conf
 Rama M10-B Macropad VIA configuration
 
+![RAMA-M10-B](https://user-images.githubusercontent.com/160072/216480593-e9470a1c-ed31-4fab-8cfc-23f65fa8a505.jpg)
+
 ## How to Use
 Apply config to keyboard via https://usevia.app (you can also update/modify config there)
 
