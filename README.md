@@ -1,6 +1,10 @@
 # M10-B-Macropad-conf
 Rama M10-B Macropad VIA configuration
 
+## How to Use
+Apply config to keyboard via https://usevia.app (you can also update/modify config there)
+
+## Layers Description
 Layer 0 (Music)
 ```
 ["Vol-", "PageUp", "Vol+"]
