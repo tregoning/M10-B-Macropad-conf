@@ -7,7 +7,7 @@
     "{KC_LSFT,KC_F7}",
     "{KC_LCTL, KC_LSFT, KC_RGHT}",
     "{KC_LCTL, KC_LSFT, KC_LEFT}",
-    "",
+    "{KC_LGUI,KC_DOWN, KC_ESC}",
     "",
     "",
     "",
@@ -45,9 +45,9 @@
       "TO(0)"
     ],
     [
-      "KC_NO",
+      "KC_ESC",
       "MACRO02",
-      "KC_NO",
+      "MACRO05",
       "MACRO04",
       "KC_F7",
       "MACRO03",
