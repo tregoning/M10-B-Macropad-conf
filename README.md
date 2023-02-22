@@ -25,7 +25,7 @@ Layer 1 (Chrome: Used when debugging code)
 
 Layer 2 (Intellij/WebStorm: Used when diffing changes)
 ```
-["", "Prev Diff", ""]
+["esc", "Prev Diff", "Go To File"]
 ["Compare Prev File", "Next Diff", "Compare Next File"]
 ["", "",""]
 ["Layer 0"]
